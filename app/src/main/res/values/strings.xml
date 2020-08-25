@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tresa_lekcija</string>
+    <string name="toast_text">Button clicked!</string>
+    <string name="button_name">Press!!!</string>
+</resources>
